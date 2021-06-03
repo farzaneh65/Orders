@@ -1,0 +1,1 @@
+{"version":3,"file":"IOrdersProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/orders/components/IOrdersProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,cAAc,EAAC,MAAM,4BAA4B,CAAA;AAEzD,MAAM,WAAW,YAAY;IAC3B,WAAW,EAAE,MAAM,CAAC;IACpB,OAAO,EAAE,MAAM,CAAC;IAChB,OAAO,EAAE,cAAc,CAAA;CACxB"}

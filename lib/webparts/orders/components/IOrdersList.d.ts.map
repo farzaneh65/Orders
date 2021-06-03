@@ -1,0 +1,1 @@
+{"version":3,"file":"IOrdersList.d.ts","sourceRoot":"","sources":["../../../../src/webparts/orders/components/IOrdersList.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,WAAW;IACxB,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,QAAQ,EAAE,MAAM,CAAC;IACjB,aAAa,EAAE,MAAM,CAAC;IACtB,WAAW,EAAE,MAAM,CAAC;IACpB,UAAU,EAAC,MAAM,CAAC;IACnB,MAAM,EAAC,MAAM,EAAE,CAAA;CACjB"}
